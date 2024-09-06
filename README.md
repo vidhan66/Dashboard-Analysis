@@ -1,7 +1,7 @@
 # Customer Churn Analysis Dashboard
 
 ## Overview
-This repository contains a comprehensive dashboard for analyzing customer churn at a telecom company. The analysis includes data cleaning, visualization, and insights to identify key patterns in service usage across different regions and times.
+This repository contains a comprehensive and live dashboard for analyzing customer churn at a telecom company. The analysis includes data cleaning, visualization, and insights to identify key patterns in service usage across different regions and times.
 
 ## Data Cleaning and Analysis
 ### Data Cleaning
